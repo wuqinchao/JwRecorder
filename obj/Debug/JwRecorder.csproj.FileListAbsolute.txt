@@ -1,0 +1,14 @@
+D:\SmallTools\JwRecorder\JwRecorder\bin\Debug\JwRecorder.exe.config
+D:\SmallTools\JwRecorder\JwRecorder\bin\Debug\JwRecorder.exe
+D:\SmallTools\JwRecorder\JwRecorder\bin\Debug\JwRecorder.pdb
+D:\SmallTools\JwRecorder\JwRecorder\bin\Debug\NAudio.dll
+D:\SmallTools\JwRecorder\JwRecorder\bin\Debug\NAudio.xml
+D:\SmallTools\JwRecorder\JwRecorder\obj\Debug\JwRecorder.csprojAssemblyReference.cache
+D:\SmallTools\JwRecorder\JwRecorder\obj\Debug\JwRecorder.Properties.Resources.resources
+D:\SmallTools\JwRecorder\JwRecorder\obj\Debug\JwRecorder.csproj.GenerateResource.cache
+D:\SmallTools\JwRecorder\JwRecorder\obj\Debug\JwRecorder.csproj.CoreCompileInputs.cache
+D:\SmallTools\JwRecorder\JwRecorder\obj\Debug\JwRecorder.csproj.CopyComplete
+D:\SmallTools\JwRecorder\JwRecorder\obj\Debug\JwRecorder.exe
+D:\SmallTools\JwRecorder\JwRecorder\obj\Debug\JwRecorder.pdb
+D:\SmallTools\JwRecorder\JwRecorder\obj\Debug\JwRecorder.FRecorder.resources
+D:\SmallTools\JwRecorder\JwRecorder\obj\Debug\JwRecorder.FWareIns.resources
